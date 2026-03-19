@@ -121,7 +121,7 @@ int main(){
 	scanf("%d", &opcao);
 	
 	
-	printf("\n------RESULTADO------\n"); //Trocando a comparação direta do if e else e incluindo um menu para elecionar o que queremos comparar.
+	printf("\n------RESULTADO------\n"); //Trocando a comparação direta do if e else e incluindo um menu para selecionar o que queremos comparar.
 	
 	switch(opcao){
 	    case 1:
